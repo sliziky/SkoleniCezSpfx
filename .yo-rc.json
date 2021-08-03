@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": false,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "cez-spvr",
+    "libraryId": "e54dc2bb-8c5d-47d3-af36-d85148f92647",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
