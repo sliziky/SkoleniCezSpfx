@@ -46,6 +46,9 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
               groupFields: [
                 PropertyPaneTextField('description', {
                   label: strings.DescriptionFieldLabel
+                }),
+                PropertyPaneTextField('description', {
+                  label: strings.DescriptionFieldLabel
                 })
               ]
             }
