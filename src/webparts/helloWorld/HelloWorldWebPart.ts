@@ -33,7 +33,6 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
   }
 
 
-
   protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {
     return {
       pages: [
